@@ -56,7 +56,8 @@
 
 - C. Bilen, Y. Wang, and I. Selesnick, “High-Speed Compressed Sensing Reconstruction in Dynamic Parallel MRI Using Augmented Lagrangian and Parallel Processing,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 2, no. 3, pp. 370–379, Sep. 2012. 
 
-### Dictionary Learning ###
+
+## Dictionary Learning ##
 
 - Y. Wang and L. Ying, “Compressed Sensing Dynamic Cardiac Cine MRI Using Learned Spatiotemporal Dictionary,” IEEE Transactions on Biomedical Engineering, vol. 61, no. 4, pp. 1109–1120, Apr. 2014. 
 
