@@ -1,4 +1,0 @@
-csmri
-=====
-
-CSMRI literature
