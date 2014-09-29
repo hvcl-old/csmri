@@ -12,9 +12,9 @@
 
 - A. Eklund, P. Dufort, D. Forsberg, and S. M. LaConte, “Medical image processing on the GPU – Past, present and future,” Medical Image Analysis, vol. 17, no. 8, pp. 1073–1094, Dec. 2013. 
 
-- Traditional Reconstruction 
+## Traditional Reconstruction ##
 
-## kt-SPARSE ##
+### kt-SPARSE ###
 
 - U. Gamper, P. Boesiger, and S. Kozerke, “Compressed sensing in dynamic MRI,” Magnetic Resonance in Medicine, vol. 59, no. 2, pp. 365–373, 2008. 
 
@@ -26,7 +26,7 @@
 
 - M. Lustig and J. M. Pauly, “SPIRiT: Iterative self-consistent parallel imaging reconstruction from arbitrary k-space,” Magnetic Resonance in Medicine, vol. 64, no. 2, pp. 457–471, 2010. 
 
-## kt-FOCUSS ##
+### kt-FOCUSS ###
 
 - H. Jung, J. C. Ye, and E. Y. Kim, “Improved k–t BLAST and k–t SENSE using FOCUSS,” Phys. Med. Biol., vol. 52, no. 11, p. 3201, Jun. 2007. 
 
@@ -34,11 +34,11 @@
 
 - H. Yoon, K. S. Kim, and J. C. Ye, “Motion compensated compressed sensing dynamic MRI with low-rank patch-based residual reconstruction,” in 2013 IEEE 10th International Symposium on Biomedical Imaging (ISBI), 2013, pp. 314–317. 
 
-## Low Rank ##
+### Low Rank ###
 
 - S. G. Lingala, Y. Hu, E. DiBella, and M. Jacob, “Accelerated Dynamic MRI Exploiting Sparsity and Low-Rank Structure: k-t SLR,” IEEE Transactions on Medical Imaging, vol. 30, no. 5, pp. 1042–1054, 2011. 
 
-## Split Bregman L1 ##
+### Split Bregman L1 ###
 
 - D. Kim, J. Trzasko, M. Smelyanskiy, C. Haider, P. Dubey, and A. Manduca, “High-Performance 3D Compressive Sensing MRI Reconstruction Using Many-Core Architectures,” International Journal of Biomedical Imaging, vol. 2011, Sep. 2011. 
 
@@ -46,7 +46,7 @@
 
 - T. Goldstein and S. Osher, “The Split Bregman Method for L1-Regularized Problems,” SIAM Journal on Imaging Sciences, vol. 2, no. 2, pp. 323–343, Jan. 2009. 
 
-## ADMM ##
+### ADMM ###
 
 - J. Yang, Y. Zhang, and W. Yin, “A Fast Alternating Direction Method for TVL1-L2 Signal Reconstruction From Partial Fourier Data,” IEEE Journal of Selected Topics in Signal Processing, vol. 4, no. 2, pp. 288–297, 2010. 
 
@@ -56,7 +56,7 @@
 
 - C. Bilen, Y. Wang, and I. Selesnick, “High-Speed Compressed Sensing Reconstruction in Dynamic Parallel MRI Using Augmented Lagrangian and Parallel Processing,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 2, no. 3, pp. 370–379, Sep. 2012. 
 
-## Dictionary Learning ##
+### Dictionary Learning ###
 
 - Y. Wang and L. Ying, “Compressed Sensing Dynamic Cardiac Cine MRI Using Learned Spatiotemporal Dictionary,” IEEE Transactions on Biomedical Engineering, vol. 61, no. 4, pp. 1109–1120, Apr. 2014. 
 
@@ -71,7 +71,7 @@
 - S. P. Awate and E. V. R. DiBella, “Spatiotemporal dictionary learning for undersampled dynamic MRI reconstruction via joint frame-based and dictionary-based sparsity,” in 2012 9th IEEE International Symposium on Biomedical Imaging (ISBI), 2012, pp. 318–321. 
 
 
-## Uncategorized ##
+### Uncategorized ###
 
 - S. G. Lingala and M. Jacob, “Blind Compressive Sensing Dynamic MRI,” IEEE Transactions on Medical Imaging, vol. 32, no. 6, pp. 1132–1145, 2013. 
 
